@@ -2,21 +2,21 @@
 # monero-generator
 
 ## Project Description
-This project is designed to [describe the main functionality and purpose of the project].
+A tool for generating Monero cryptocurrency addresses and keys.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Secure key generation
+- Address validation
+- Easy-to-use interface
 
 ## Technology Stack
-List of technologies used in the project.
+Python, Monero API
 
 ## Installation
-Instructions on how to install the project.
+Clone the repository, set up a virtual environment, and run `pip install -r requirements.txt`.
 
 ## Usage
-Examples of how to use the project.
+Generate Monero addresses and keys securely.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
